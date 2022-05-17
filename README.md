@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visitor Count](https://profile-counter.glitch.me/{tahiralpay}/count.svg)
+
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tahir-alpay-1b5704175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tahir-alpay-1b5704175" height="30" width="40" /></a>
 <a href="https://instagram.com/tahir_alpay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahir_alpay" height="30" width="40" /></a>
